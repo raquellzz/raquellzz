@@ -37,24 +37,24 @@
 </p>
 
 <p align="center">
- <a href="https://raquellzz.com" target="blank">
+ <!-- <a href="https://raquellzz.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="raquellzz" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ </a> -->
+ <a href="https://www.linkedin.com/in/raquel-freire-b76196255/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raquellzz"/>
  </a>
  <!-- <a href="https://dev.to/raquellzz" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="raquellzz" />
  </a> -->
- <a href="https://twitter.com/_raquellzz" target="_blank">
+ <!-- <a href="https://twitter.com/_raquellzz" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_raquellzz" target="_blank">
+ </a> -->
+ <a href="https://instagram.com/quellz_a" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="raquellzz" />
  </a> 
- <a href="https://facebook.com/raquellzz.dev" target="_blank">
+ <!-- <a href="https://facebook.com/raquellzz.dev" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="raquellzz"  />
-  </a> 
+  </a> -->
 </p>
 <br />
 
@@ -66,7 +66,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: raquellzz.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: raquelcfapoio24@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/raquellzz/raquellzz/issues)
 
 </p>
@@ -121,4 +121,4 @@
 </a>
 
 
-![raquellzz's Graph](https://github-readme-activity-graph.vercel.app/graph?username=raquellzz&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![raquellzz's Graph](https://github-readme-activity-graph.vercel.app/graph?username=raquellzz&custom_title=Raquel%20Freire's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
